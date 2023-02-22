@@ -1,6 +1,5 @@
- Olá, eu sou o Gabriel
- 
-- 🌱 I’m currently studying Analysis and Systems Development
+<h1>Hi, I'm Gabriel</h1>
+
 
 <div>
   <a href="https://github.com/Gabreeuzin">
@@ -8,19 +7,38 @@
   <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabreeuzin&layout=compact&langs_count=16&theme=shades-of-purple"/>
 </div>
   
-  ##
+ ## 📚 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 📓 Front End Developer
+- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 to be a **Analysis and Systems Development**
+- 🌱 I’m currently learning **Java Spring Boot**
   
-  
-  <div style="display: inline_block"><br>
-    <h1>Learning Languages</h1>
-  <img align="center" alt="Gabreeuzin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabreeuzin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabreeuzin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabreeuzin-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Gabreeuzin-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Gabreeuzin-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-  <img align="right" alt="Gabreeuzin-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1021605687664595045/1077953330648723516/image.jpeg?width=341&height=422">
-</div>
+## 🛠️ Skills and Tools
+<h4>Frontend Development:</h4>
+<p>
+ <!--JavaScript -->
+<a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> </a>
+  <!-- HTML -->
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> </a>
+ <!-- CSS  -->
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+</p>
+ <h4>Back-End Development:</h4>
+<p>
+ <!--Java -->
+<a href="https://www.java.com/pt-BR/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/> </a>
+ <!--MySQL -->
+<a href="https://dev.mysql.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="My SQL" width="40" height="40"/> </a>
+ <!--Spring -->
+<a href="https://docs.spring.io/spring-framework/docs/current/reference/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring FrameWork" width="40" height="40"/> </a>
+</p>
+
+<h4>Utility Tools:</h4>
+<p>
+  <!-- VsCode -->
+<a href="[https://www.linux.org/](https://code.visualstudio.com/)" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
+  <!- GIT -->
+ <a href="https://git-scm.com/doc" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="40"/> </a>
+
 
  ##
   
