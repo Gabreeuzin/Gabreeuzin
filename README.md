@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Java Spring Boot**
   
 ## 🛠️ Skills and Tools
-<h4>Frontend Development:</h4>
+<h4>Front-end Development:</h4>
 <p>
  <!--JavaScript -->
 <a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> </a>
