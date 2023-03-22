@@ -10,7 +10,7 @@
  ## 📚 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 📓 Front End Developer
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 to be a **Analysis and Systems Development**
-- 🌱 I’m currently learning **Java Spring Boot**
+- 🌱 I’m currently learning **Angular**
   
 ## 🛠️ Skills and Tools
 <h4>Front-end Development:</h4>
