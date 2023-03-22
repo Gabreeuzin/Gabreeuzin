@@ -10,7 +10,7 @@
  ## 📚 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 📓 Front End Developer
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 to be a **Analysis and Systems Development**
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular and Python**
   
 ## 🛠️ Skills and Tools
 <h4>Front-end Development:</h4>
@@ -24,13 +24,8 @@
 </p>
  <h4>Back-End Development:</h4>
 <p>
- <!--Java -->
-<a href="https://www.java.com/pt-BR/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/> </a>
- <!--MySQL -->
-<a href="https://dev.mysql.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="My SQL" width="40" height="40"/> </a>
- <!--Spring -->
-<a href="https://docs.spring.io/spring-framework/docs/current/reference/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring FrameWork" width="40" height="40"/> </a>
-</p>
+ <!--Python-->
+<a href="https://www.python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/> </a>
 
 <h4>Utility Tools:</h4>
 <p>
